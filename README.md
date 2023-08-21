@@ -31,4 +31,3 @@
 👥 **Connect with Me**:
 
 - **[LinkedIn](https://www.linkedin.com/in/tharindu-sankalpa)** (Add your LinkedIn profile link)
-- **[Twitter](https://twitter.com/TharinduSankalpa)** (Add your Twitter profile link)
