@@ -10,10 +10,11 @@
 
 - 📊 Exploring Big Data concepts and their applications in AI/ML.
 - 💡 Innovating in the fields of Deep Learning and Network Automation.
+- 🧠 Diving into LLMs and developing cutting-edge NLP applications.
 
 🤝 **Collaborations**:
 
-- 🔬 Open to partnerships on Big Data, Deep Learning, and Network Automation research.
+- 🔬 Open to partnerships on Big Data, Deep Learning, NLP, and Network Automation research.
 
 🔗 **Contact**:
 
