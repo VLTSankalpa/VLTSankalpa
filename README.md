@@ -1,22 +1,22 @@
-👋 **Hi, I'm Tharindu Sankalpa, an AI/ML Solution Architect and Data Scientist.**
+👋 **Hi, I'm Tharindu Sankalpa.**
 
 🔍 **About Me**:
 
-- 🛠️ Specializing in AI/ML solutions for Networking, Banking, and Manufacturing sectors.
-- ☁️ Experienced in deploying data engineering and ML solutions on Google Cloud.
-- 🌐 Background in network automation and IP/MPLS service provider networks.
+- 🛠️ I'm passionate about using AI, ML, and data solutions to make a real difference in the world.
+- ☁️ I have extensive experience deploying data engineering and ML projects on Google Cloud and AWS.
+- 🌐 My work spans various industries like telecommunications, banking, and manufacturing, where I apply AI to solve complex issues.
 
-🌱 **Current Focus**:
+🌱 **My Vision**:
 
-- 📊 Exploring Big Data concepts and their applications in AI/ML.
-- 💡 Innovating in the fields of Deep Learning and Network Automation.
-- 🧠 Diving into LLMs and developing cutting-edge NLP applications.
+- 📊 I aim to leverage Big Data, ML, and AI to uncover insights that not only address immediate challenges but also have a lasting positive impact.
+- 💡 I'm always exploring new technologies in NLP, machine learning models, and MLOps to stay ahead of the curve.
+- 🧠 I focus on developing smarter IoT applications and advancing time series forecasting and anomaly detection.
 
-🤝 **Collaborations**:
+🤝 **Looking to Collaborate**:
 
-- 🔬 Open to partnerships on Big Data, Deep Learning, NLP, and Network Automation research.
+- 🔬 I'm open to partnerships that explore innovative solutions in Big Data, Deep Learning, NLP, and Network Automation.
 
-🔗 **Contact**:
+🔗 **Contact Me**:
 
 - 📧 Email: **[wltsankalpa@gmail.com](mailto:wltsankalpa@gmail.com)**
 - 📞 Phone: +94774588562
