@@ -19,4 +19,3 @@
 🔗 **Contact Me**:
 
 - 📧 Email: **[wltsankalpa@gmail.com](mailto:wltsankalpa@gmail.com)**
-- 📞 Phone: +94774588562
